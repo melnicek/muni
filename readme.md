@@ -4,6 +4,8 @@
 
 > Uspesnost: [82%](https://is.muni.cz/auth/ucitel/statistika_znamek?fakulta=1433;obdobi=7644;kod=PB071)
 
+[Web](https://www.fi.muni.cz/pb071/)
+
 [Studijni materialy](https://is.muni.cz/auth/el/fi/jaro2021/PB071/)
 
 [Prednasky](https://is.muni.cz/auth/el/fi/jaro2021/PB071/um/prednasky/) (pozriet pi-so-ne-po)
