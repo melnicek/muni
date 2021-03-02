@@ -8,7 +8,7 @@
 
 | 8 - 10 | 10 - 12 | 12 - 14 | 14 - 16 | 16 - 18 | 18 - 20 |
 | --- | --- | --- | --- | --- | --- |
-||| PB071 \[82%\] [prednáška](https://is.muni.cz/auth/el/fi/jaro2021/PB071/um/prednasky/) ||||
+||| [PB071 - prednáška](https://is.muni.cz/auth/el/fi/jaro2021/PB071/um/prednasky/) \[82%\] ||||
 ||| [PB138 - prednáška](https://is.muni.cz/auth/el/fi/jaro2021/PB138/index.qwarp) \[100%\] ||| [MB151 - prednáška](https://is.muni.cz/auth/el/fi/jaro2021/MB151/um/videa_-_jaro_2021/) \[86%\] |
 || [PB071 - cvičenia](https://discord.gg/ckPt8cVZtT) \[82%\] <br> [Materialy](https://www.fi.muni.cz/pb071/seminars/) <hr> [PV062](https://www.fi.muni.cz/usr/staudek/vyuka/filesys/PV062.xhtml) \[100%\] <br>| [IB002 - prednáška](https://is.muni.cz/auth/el/fi/jaro2021/IB002/um/video_prednasky/) \[75%\] <br> [Domáce úlohy](https://is.muni.cz/auth/el/fi/jaro2021/IB002/um/ducv/) <br> [Odevzdarna](https://is.muni.cz/auth/el/fi/jaro2021/IB002/ode/ode_du01/)|[MB151 - cvičenia](https://is.muni.cz/auth/el/fi/jaro2021/MB151/um/cviceni_-_jaro_2021/) \[86%\] <br> **MS Teams** <br> [Odpovednik](https://is.muni.cz/auth/elearning/test_pruchod_el_student?jen_predmet=1323783) |[IB109](https://is.muni.cz/auth/el/fi/jaro2021/IB109/um/) \[93%\]||
 ||| [PB138 - cvičenia](https://discord.gg/2xJnQWyWEm) \[100%\] <hr> [PV004](https://is.muni.cz/auth/el/fi/jaro2021/PV004/um/prednasky/) \[100%\] <br> [Labak](https://is.muni.cz/auth/edutools/brandejs/pv004lab)|[IB002 - cvičenia](https://is.muni.cz/auth/el/fi/jaro2021/IB002/um/video_prednasky/) \[75%\]<br> **MS Teams** <br> [Odpovednik](https://is.muni.cz/auth/elearning/test_pruchod_el_student?jen_predmet=1323745)|[PB156](https://is.muni.cz/auth/el/1433/jaro2021/PB156/) \[98%\]||
