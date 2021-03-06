@@ -1,4 +1,4 @@
-| 8 - 10 | 10 - 12 | 12 - 14 | 14 - 16 | 16 - 18 | 18 - 20 |
+| 8-10 | 10-12 | 12-14 | 14-16 | 16-18 | 18-20 |
 | --- | --- | --- | --- | --- | --- |
 ||| [PB071](https://is.muni.cz/auth/el/fi/jaro2021/PB071/um/prednasky/) \[82%\] ||||
 ||| [PB138](https://is.muni.cz/auth/el/fi/jaro2021/PB138/index.qwarp) \[100%\] ||| [MB151](https://is.muni.cz/auth/el/fi/jaro2021/MB151/um/videa_-_jaro_2021/) \[86%\] |
