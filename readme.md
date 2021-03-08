@@ -3,7 +3,7 @@
 |||PB071<br>[prednaska video](https://is.muni.cz/auth/el/fi/jaro2021/PB071/um/prednasky/)||||
 |||PB138<br>[prednaska ZOOM](https://is.muni.cz/auth/el/fi/jaro2021/PB138/index.qwarp)|VB042<br>[materialy](https://is.muni.cz/auth/el/fi/jaro2021/VB042/)||MB151<br>[prednaska video](https://is.muni.cz/auth/el/fi/jaro2021/MB151/index-WOhNcl.qwarp)|
 ||PB071<br>[discord#25-st-1000](https://discord.com/channels/686960338746605568/815661266211045386)<br>[materialy](https://www.fi.muni.cz/pb071/seminars/)| IB002<br>[prednaska video](https://is.muni.cz/auth/el/fi/jaro2021/IB002/um/video_prednasky/)|MB151<br>**cviko MS Teams**<br>[Odpovednik](https://is.muni.cz/auth/elearning/test_pruchod_el_student?jen_predmet=1323783)|||
-||| PB138[cviko ZOOM](https://cesnet.zoom.us/my/ludek.bartek)<br>[PV004](https://is.muni.cz/auth/el/fi/jaro2021/PV004/um/prednasky/)<br>[Labak](https://is.muni.cz/auth/edutools/brandejs/pv004lab) | [IB002](https://is.muni.cz/auth/el/fi/jaro2021/IB002/um/video_prednasky/) <br> **MS Teams** <br> [Odpovednik](https://is.muni.cz/auth/elearning/test_pruchod_el_student?jen_predmet=1323745) | [PB156](https://is.muni.cz/auth/el/1433/jaro2021/PB156/) ||
+|||PB138<br>[cviko ZOOM](https://cesnet.zoom.us/my/ludek.bartek)<br>PV004<br>[prednaska video](https://is.muni.cz/auth/el/fi/jaro2021/PV004/um/prednasky/)<br>[lab](https://is.muni.cz/auth/edutools/brandejs/pv004lab)|IB002<br>**cviko MS Teams**<br>[Odpovednik](https://is.muni.cz/auth/elearning/test_pruchod_el_student?jen_predmet=1323745)|[PB156](https://is.muni.cz/auth/el/1433/jaro2021/PB156/) ||
 |[PB152](https://is.muni.cz/auth/el/fi/jaro2021/PB152cv/um/) ||||||
 
 # PONDELOK
