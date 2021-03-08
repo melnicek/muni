@@ -6,6 +6,22 @@
 ||PB138<br>[cviko ZOOM](https://cesnet.zoom.us/my/ludek.bartek)<br>PV004<br>[prednaska video](https://is.muni.cz/auth/el/fi/jaro2021/PV004/um/prednasky/)<br>[lab](https://is.muni.cz/auth/edutools/brandejs/pv004lab)|IB002<br>**cviko MS Teams**<br>[Odpovednik](https://is.muni.cz/auth/elearning/test_pruchod_el_student?jen_predmet=1323745)|PB156<br>[prednasky video](https://is.muni.cz/auth/el/fi/jaro2021/PB156/zaznamy_prednasek/) ||
 |PB152<br>[notes](https://is.muni.cz/auth/el/fi/jaro2021/PB152cv/um/text/pb152.notes.pdf)<br>SSH aisa|||||
 
+| Predmet | Uspesnost |
+| --- | --- |
+| IB002 | 75% |
+| PB071 | 82% |
+| MB151 | 86% |
+| PB152 | 90% |
+| IB109 | 93% |
+| PB156 | 98% |
+| VB036 | 99% |
+| PB138 | 100% |
+| PV004 | 100% |
+| PV062 | 100% |
+| JSB080 | 100% |
+| TI9007 | 100% |
+
+
 # PONDELOK
 
 ### [PB071](https://is.muni.cz/auth/predmet/fi/jaro2021/PB071) Principy nízkoúrovňového programování
