@@ -1,3 +1,5 @@
+[vsetky predmety](https://is.muni.cz/auth/student/) | [odpovedniky](https://is.muni.cz/auth/elearning/test_pruchod_el_student?prepocitat_vsechno=1) | [poznamkovy blok](https://is.muni.cz/auth/student/poznamkove_bloky_nahled)
+
 | den | 8-10 | 10-12 | 12-14 | 14-16 | 16-18 | 18-20 |
 | --- | --- | --- | --- | --- | --- | --- |
 | po | | **PB071** <br> [prednaska](https://is.muni.cz/auth/el/fi/jaro2021/PB071/um/prednasky/) | **PB071** <br> [prednaska Q&A](https://cesnet.zoom.us/j/91788936321?pwd=QncwWlBxSFd4RHZoT2NMOGxsSVptdz09) | | | |
