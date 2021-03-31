@@ -1,4 +1,4 @@
-[vsetky predmety](https://is.muni.cz/auth/student/) | [odpovedniky](https://is.muni.cz/auth/elearning/test_pruchod_el_student?prepocitat_vsechno=1) | [poznamkovy blok](https://is.muni.cz/auth/student/poznamkove_bloky_nahled)
+[vsetky predmety](https://is.muni.cz/auth/student/) ; [odpovedniky](https://is.muni.cz/auth/elearning/test_pruchod_el_student?prepocitat_vsechno=1) ; [poznamkovy blok](https://is.muni.cz/auth/student/poznamkove_bloky_nahled)
 
 | den | 8-10 | 10-12 | 12-14 | 14-16 | 16-18 | 18-20 |
 | --- | --- | --- | --- | --- | --- | --- |
